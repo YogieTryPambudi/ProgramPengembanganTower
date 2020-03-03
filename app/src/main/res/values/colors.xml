@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorBackground">#00FFFF</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextHint">#51d8c7</color>
+    <!--color untuk gradient tansition-->
+    <color name="purple">#6495ED</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="cyan_500">#00bcd4</color>
+    <item name="blue" type="color">#FF33B5E5</item>
+    <color name="light_blue_500">#03a9f4</color>
+    <color name="kk">#6495ED</color>
+    <color name="uu">#00FFFF</color>
+    <color name="mm">#808080</color>
+    <color name="nn">#2F4F4F</color>
+    <color name="alertInfo">#fff3cd</color>
+    <color name="alertInfoFontColor">#0c5460</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="alertPrimary">#cce5ff</color>
+    <color name="alertPrimaryFontColor">#004085</color>
+    <color name="alertSuccess">#d4edda</color>
+    <color name="alertSuccessFontColor">#155724</color>
+    <color name="alertDanger">#f8d7da</color>
+    <color name="alertDangerFontColor">#721c24</color>
+    <color name="alertWarning">#fff3cd</color>
+    <color name="alertWarningFontColor">#856404</color>
+    <color name="alertSecondary">#e2e3e5</color>
+    <color name="alertSecondaryFontColor">#383d41</color>
+
+    <color name="btnPrimary">#007bff</color>
+    <color name="btnSecondary">#6c757d</color>
+    <color name="btnSuccess">#28a745</color>
+    <color name="btnDanger">#dc3545</color>
+    <color name="btnWarning">#ffc107</color>
+    <color name="btnInfo">#17a2b8</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="white">#ffffff</color>
+    <color name="lbl_email">#333333</color>
+    <color name="input_login">#222222</color>
+    <color name="input_register">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register_hint">#999999</color>
+    <color name="btn_login_register">#2196F3</color>
+    <color name="btn_register">#0D47A1</color>
+    <color name="btn_logut">#ff6861</color>
+    <color name="green">#00bfa5</color>
+    <color name="lightgray">#ededed</color>
+    <color name="testcolorblue">#152b38</color>
+
+</resources>
